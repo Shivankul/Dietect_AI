@@ -1,4 +1,5 @@
 # Dietect_AI
+<img width="1191" height="832" alt="Image" src="https://github.com/user-attachments/assets/af288f0d-2608-4505-b917-5cdf23ecc422" />
 
 Dietect_AI is a Python-based project focused on leveraging artificial intelligence to analyze, suggest, or optimize dietary patterns. This repository provides tools, models, and utilities aimed at improving nutrition analysis, meal planning, or related tasks using state-of-the-art machine learning techniques.
 
